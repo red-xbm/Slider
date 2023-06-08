@@ -95,3 +95,14 @@ img {
     background-color: #d40000;
     color: #fff;
 }
+p {
+    color: white;
+    text-align: center;
+    font: 13px;
+    padding: 300px 0 10px;
+}
+p a {
+    text-decoration: none;
+    border-bottom: white 1px solid;
+    color:#fdfdfd8c;
+}
